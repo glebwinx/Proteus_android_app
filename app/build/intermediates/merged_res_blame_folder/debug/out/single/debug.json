@@ -36,12 +36,12 @@
         "source": "ru.protei.sipachevgo.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "ru.protei.sipachevgo.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "ru.protei.sipachevgo.app-main-46:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
         "merged": "ru.protei.sipachevgo.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
         "source": "ru.protei.sipachevgo.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ru.protei.sipachevgo.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ru.protei.sipachevgo.app-main-46:/mipmap-hdpi/ic_launcher.webp"
     },
     {
         "merged": "ru.protei.sipachevgo.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",

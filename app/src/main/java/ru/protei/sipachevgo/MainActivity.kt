@@ -15,7 +15,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import ru.protei.sipachevgo.ui.theme.SipachevgoTheme
 import ru.protei.sipachevgo.domain.Note
 import ru.protei.sipachevgo.data.SampleData
-import ru.protei.sipachevgo.NoteItem
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
